@@ -8,7 +8,7 @@ Help()
    # Display Help
    echo "Simple command to remove all Git branch except the branch you want to keep"
    echo
-   echo "Syntax: ./bramove [options] [branch_you_want_to_keep]"
+   echo "Syntax: ./app.sh [options] [branch_you_want_to_keep]"
    echo "options:"
    echo "h     Print this Help."
    echo
